@@ -3,9 +3,13 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> A much needed service to allow a user to type in cat
+> This service allows users to type in cat using art created by <a href="https://millieboucher.myportfolio.com/">Millie Boucher</a>
 
-### 🏠 [Homepage](https://teobot.github.io/typeInCat/)
+### 🏠 [Project Homepage](https://teobot.github.io/typeInCat/)
+
+
+![alt text](https://github.com/teobot/typeInCat/blob/main/src/img/wideScreenBackground.jpg?raw=true)
+
 
 ## Install
 
@@ -13,16 +17,16 @@
 npm install
 ```
 
-## Usage
+## Development
 
 ```sh
-npm run start
+yarn start
 ```
 
-## Run tests
+## Deploying
 
 ```sh
-npm run test
+yarn run deploy
 ```
 
 ## Author
@@ -35,4 +39,4 @@ npm run test
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you enjoyed this project!
