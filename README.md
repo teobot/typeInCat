@@ -8,7 +8,7 @@
 ### 🏠 [Project Homepage](https://teobot.github.io/typeInCat/)
 
 
-![alt text](https://github.com/teobot/typeInCat/blob/main/src/img/wideScreenBackground.jpg?raw=true)
+![alt text](https://github.com/teobot/typeInCat/blob/main/src/img/typeincat.png?raw=true)
 
 
 ## Install
