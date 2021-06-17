@@ -3,7 +3,7 @@
 
 > This service allows users to type in cat using art created by [Millie Boucher](https://millieboucher.myportfolio.com/)
 
-### 🏠 [Homepage Link](https://teobot.github.io/typeInCat/)
+### 🏠 [Homepage Link](https://type-in-cat.netlify.app/)
 ![Cover image of the cats](https://github.com/teobot/my-portfolio/blob/main/src/img/typeincat.png?raw=true)
 
 ## Install
