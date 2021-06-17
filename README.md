@@ -1,15 +1,10 @@
-<h1 align="center">Welcome to TypeInCat 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+# Welcome to Type In Cat 👋
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 
-> This service allows users to type in cat using art created by <a href="https://millieboucher.myportfolio.com/">Millie Boucher</a>
+> This service allows users to type in cat using art created by [Millie Boucher](https://millieboucher.myportfolio.com/)
 
-### 🏠 [Project Homepage](https://teobot.github.io/typeInCat/)
-
-
-![alt text](https://github.com/teobot/my-portfolio/blob/main/src/img/typeincat.png?raw=true)
-
+### 🏠 [Homepage Link](https://teobot.github.io/typeInCat/)
+![Cover image of the cats](https://github.com/teobot/my-portfolio/blob/main/src/img/typeincat.png?raw=true)
 
 ## Install
 
@@ -33,10 +28,10 @@ yarn run deploy
 
 👤 **Theo Clapperton**
 
-* Website: https://teobot.github.io/
+* Website: https://theoclapperton-portfolio.netlify.app/
 * Github: [@teobot](https://github.com/teobot)
 * LinkedIn: [@theoClapperton](https://linkedin.com/in/theoClapperton)
 
 ## Show your support
 
-Give a ⭐️ if you enjoyed this project!
+Give a ⭐️ if you liked this project!
